@@ -1,7 +1,15 @@
-*{
+* {
     font-family: "Poppins", sans-serif;
 }
 
-.font-bangla{
+.font-bangla {
     font-family: "Poppins", sans-serif;
+}
+
+.active {
+    box-sizing: border-box;
+    border: 1px solid rgba(66, 42, 213, 1);
+    border-radius: 4px;
+    background: rgba(66, 42, 213, 1);
+    color: white;
 }
